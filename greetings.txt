@@ -1,2 +1,2 @@
 Hello, this is a message from my cloned repository!
-But now we're going to have a merge
+But now we're going to have a merge!
