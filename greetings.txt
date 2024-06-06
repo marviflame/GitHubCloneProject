@@ -1,4 +1,0 @@
-Hello, this is a message from my cloned repository!
-But now we're going to have a merge!
-Let's get to the good part!
-Holla
